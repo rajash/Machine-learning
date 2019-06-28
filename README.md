@@ -1,2 +1,2 @@
 # Machine-learning
-building machine learning models from scratch using python and R
+Building machine learning models from scratch using python and R
